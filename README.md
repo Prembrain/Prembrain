@@ -17,7 +17,7 @@
 
 ### To Learn 🛠
 
-- 🔧 &nbsp; AWS | Go | Angular
+🔧 &nbsp; AWS | Go | Angular
 
 ### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Prembrain/count.svg)
