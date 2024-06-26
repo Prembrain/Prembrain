@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Premprercha
+## Hi there 👋, I'm Prempreecha
 
 🌍  I am a Front-End Developer based in Bangkok, Thailand.
 <br/>
