@@ -1,11 +1,12 @@
 ## Hi there 👋, I'm Prempreecha
 
-🌍  I have a deep passion for Frontend Development and aspire to grow into a Fullstack Developer. Although my background is in Mechanical Engineering, which isn't directly related to this field, it has equipped me with valuable analytical and systematic problem-solving skills that I now apply to coding and project management.
+### About me 🌍
 
-Over the past seven months, I've immersed myself in both development and project management roles, working on the Lark Smart-HR project as a freelance Developer. This experience has allowed me to sharpen my skills in frontend technologies and project execution. I am driven by a genuine fascination with creating intuitive user interfaces and solving complex challenges through code.
+Despite having a mechanical engineering degree, I am really passionate about frontend development and aspire to grow into a full stack developer.
 
-The transition to frontend development for me is not just a career choice but a passion fueled by the desire to craft impactful digital experiences. I thrive on the continuous learning inherent in this field and am excited about the opportunities it presents for innovation and personal growth.
-<br/>
+I've worked as a freelance developer on the Lark Smart-HR project for seven months, immersing myself in both development and project management positions. Through this experience, I've been able to improve my project management and frontend technology skills. My motivation comes from a genuine fascination with using code to solve complicated problems and create logical user interfaces.
+
+For me, turning to frontend development is more than just a career decision—it is a passion driven by the desire to create outstanding digital experiences. I enjoy the continuous learning of this field and am thrilled about the chances it creates for innovation and my personal growth.
 
 ### Portfolio: <a href='https://prempreechadev.netlify.app/' target="_blank">Click me</a> 
 
