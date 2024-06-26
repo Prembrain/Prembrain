@@ -1,6 +1,10 @@
 ## Hi there 👋, I'm Prempreecha
 
-🌍  I am a Front-End Developer based in Bangkok, Thailand.
+🌍  I have a deep passion for Frontend Development and aspire to grow into a Fullstack Developer. Although my background is in Mechanical Engineering, which isn't directly related to this field, it has equipped me with valuable analytical and systematic problem-solving skills that I now apply to coding and project management.
+
+Over the past seven months, I've immersed myself in both development and project management roles, working on the Lark Smart-HR project as a freelance Developer. This experience has allowed me to sharpen my skills in frontend technologies and project execution. I am driven by a genuine fascination with creating intuitive user interfaces and solving complex challenges through code.
+
+The transition to frontend development for me is not just a career choice but a passion fueled by the desire to craft impactful digital experiences. I thrive on the continuous learning inherent in this field and am excited about the opportunities it presents for innovation and personal growth.
 <br/>
 
 ### Portfolio: <a href='https://prempreechadev.netlify.app/' target="_blank">Click me</a> 
