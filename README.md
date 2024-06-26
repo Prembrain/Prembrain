@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Premprercha
 
-<!--
-**Prembrain/Prembrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a Front-End Developer based in Bangkok, Thailand.
+<br/>
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,flutter)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Prembrain's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prembrain&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prembrain&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+</div>
