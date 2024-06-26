@@ -14,3 +14,10 @@
 <img alt="Prembrain's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prembrain&show_icons=true&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prembrain&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 </div>
+
+### To Learn 🛠
+
+- 🔧 &nbsp; AWS | Go | Angular
+
+### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Prembrain/count.svg)
