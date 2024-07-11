@@ -2,7 +2,7 @@
 
 ### About me 🌍
 
-Despite having a mechanical engineering degree, I am really passionate about frontend development and aspire to grow into a full stack developer.
+Despite having a mechanical engineering degree, I am really passionate about frontend developer and aspire to grow into a full stack developer.
 
 I've worked as a freelance developer on the Lark Smart-HR project for seven months, immersing myself in both development and project management positions. Through this experience, I've been able to improve my project management and frontend technology skills. My motivation comes from a genuine fascination with using code to solve complicated problems and create logical user interfaces.
 
