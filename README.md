@@ -2,11 +2,7 @@
 
 ### About me 🌍
 
-Despite having a mechanical engineering degree, I am really passionate about frontend developer and aspire to grow into a full stack developer.
-
-I've worked as a freelance developer on the Lark Smart-HR project for seven months, immersing myself in both development and project management positions. Through this experience, I've been able to improve my project management and frontend technology skills. My motivation comes from a genuine fascination with using code to solve complicated problems and create logical user interfaces.
-
-For me, turning to frontend development is more than just a career decision—it is a passion driven by the desire to create outstanding digital experiences. I enjoy the continuous learning of this field and am thrilled about the chances it creates for innovation and my personal growth.
+I am a Blockchain Engineer and Full-Stack Web Developer with experience delivering Web2 and Web3 solutions. My core tech stack includes React.js, Next.js, Node.js, and Golang, along with blockchain technologies. I specialize in building scalable web applications, decentralized applications (dApps), and NFT platforms. With a strong foundation in modern frontend and backend frameworks,  I am passionate about delivering innovative solutions that bridge traditional web development and blockchain technology.
 
 ### Portfolio: <a href='https://prempreechadev.netlify.app/' target="_blank">Click me</a> 
 
