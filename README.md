@@ -11,13 +11,6 @@ I am a Blockchain Engineer and Full-Stack Web Developer with experience deliveri
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,flutter)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,r)](https://skillicons.dev)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=firebase,figma)](https://skillicons.dev)
 <br/>
 
-### My stats ⭐
-
-<div align="center">
-<img alt="Prembrain's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Prembrain&show_icons=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prembrain&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
-</div>
-
 ### To Learn 🛠
 
 🔧 &nbsp; AWS | Go | Angular
